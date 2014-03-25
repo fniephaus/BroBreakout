@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"blockLeftSpacing" : "FN 2/3/2013 17:25:59.304",
+		"blockTopSpacing" : "FN 1/25/2013 10:08:42.232",
+		"blocksPerRow" : "FN 1/25/2013 10:16:56.179" },
+	"instance" : {
+		"buildLevel:" : "FN 2/1/2013 19:17:07.243",
+		"calculateBlockPosition:" : "PO 2/3/2013 20:41:01.212",
+		"clean:" : "PO 2/3/2013 18:55:37.571",
+		"healthValues" : "FN 1/25/2013 11:49:04.424",
+		"healthValues:" : "FN 1/25/2013 11:49:04.436",
+		"initialize" : "FN 1/25/2013 11:50:17.43",
+		"initializeHealthValues" : "PO 2/3/2013 20:43:40.372",
+		"levelWorld" : "FN 1/15/2013 11:31:19.724",
+		"levelWorld:" : "FN 1/15/2013 12:16:18.537",
+		"loadBlocks:" : "FN 2/3/2013 12:16:32.853" } }

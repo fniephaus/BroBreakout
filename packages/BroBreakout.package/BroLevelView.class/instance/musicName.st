@@ -1,0 +1,3 @@
+sounds
+musicName
+	^ 'gaming.wav'

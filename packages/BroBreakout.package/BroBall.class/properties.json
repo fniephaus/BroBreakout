@@ -1,0 +1,19 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:08:09.347",
+	"instvars" : [
+		"direction",
+		"distanceVectorToTravel",
+		"levelWorld",
+		"tempCenter",
+		"newCenter",
+		"collisionPoint" ],
+	"name" : "BroBall",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

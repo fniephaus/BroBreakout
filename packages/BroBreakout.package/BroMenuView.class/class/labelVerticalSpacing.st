@@ -1,0 +1,3 @@
+constants
+labelVerticalSpacing
+	^ 40

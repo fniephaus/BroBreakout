@@ -1,0 +1,1 @@
+A BroPowerupShrink is a subclass of BroPowerup which shrinks all instances of BroRacket in the current game instance..

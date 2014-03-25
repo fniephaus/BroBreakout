@@ -1,0 +1,3 @@
+constants
+defaultStepSize
+	^ 15

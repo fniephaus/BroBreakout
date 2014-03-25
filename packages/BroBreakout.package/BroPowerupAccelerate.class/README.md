@@ -1,0 +1,1 @@
+A BroPowerupAccelerate is a subclass of BroPowerup which accelerates all instances of BroBall in the current game instance.

@@ -1,0 +1,15 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:16:33.208",
+	"instvars" : [
+		"description",
+		"value" ],
+	"name" : "BroLevelStatisticsItem",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A BroPowerupDecelerate is a subclass of BroPowerup which decelerates all instances of BroBall in the current game instance.

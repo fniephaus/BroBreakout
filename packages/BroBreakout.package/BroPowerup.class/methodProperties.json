@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"diameter" : "FN 1/24/2013 09:59:51.076" },
+	"instance" : {
+		"backgroundMorph" : "FN 1/17/2013 11:01:55.726",
+		"backgroundMorph:" : "FN 1/17/2013 11:01:55.74",
+		"collidesWithAnyElementOf:" : "FN 1/24/2013 10:20:44.253",
+		"delay:for:" : "PO 1/15/2013 22:19:55.591",
+		"directionVector" : "FN 1/24/2013 10:21:05.937",
+		"directionVector:" : "FN 1/24/2013 10:21:08.938",
+		"execute" : "FN 1/31/2013 17:18:05.607",
+		"imageName" : "FN 1/17/2013 17:00:17.477",
+		"initialize" : "PO 2/3/2013 20:24:57.289",
+		"initializeBackgroundImage" : "FN 2/3/2013 17:33:49.481",
+		"levelWorld" : "FN 1/24/2013 10:21:19.47",
+		"levelWorld:" : "FN 1/24/2013 10:21:23.102",
+		"step" : "PO 2/3/2013 19:09:32.853",
+		"stepTime" : "FN 1/24/2013 10:22:27.74" } }

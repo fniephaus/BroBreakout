@@ -1,0 +1,1 @@
+A BroPowerup is an abstract subclass of CircleMorph which provides basic functionality (like collision detection) and defines methods which have to be overriden by subclasses (execute and imageName).

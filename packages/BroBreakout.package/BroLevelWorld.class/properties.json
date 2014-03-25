@@ -1,0 +1,20 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:22:03.934",
+	"instvars" : [
+		"levelView",
+		"levelBlocks",
+		"balls",
+		"rackets",
+		"levelStatistics",
+		"disallowedBlocks",
+		"ballSpeed" ],
+	"name" : "BroLevelWorld",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

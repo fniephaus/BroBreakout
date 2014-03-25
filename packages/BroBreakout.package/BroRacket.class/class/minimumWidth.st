@@ -1,0 +1,3 @@
+constants
+minimumWidth
+	^ 25

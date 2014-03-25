@@ -1,0 +1,3 @@
+animation
+stepTime
+	^ 20

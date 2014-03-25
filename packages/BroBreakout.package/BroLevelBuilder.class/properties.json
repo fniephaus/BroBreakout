@@ -1,0 +1,15 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:15:37.654",
+	"instvars" : [
+		"levelWorld",
+		"healthValues" ],
+	"name" : "BroLevelBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

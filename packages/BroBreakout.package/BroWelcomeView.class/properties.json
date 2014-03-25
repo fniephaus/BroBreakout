@@ -1,0 +1,14 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:30:44.288",
+	"instvars" : [
+		 ],
+	"name" : "BroWelcomeView",
+	"pools" : [
+		 ],
+	"super" : "BroView",
+	"type" : "normal" }

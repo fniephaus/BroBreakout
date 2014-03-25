@@ -1,0 +1,3 @@
+accessing
+musicName
+	self subclassResponsibility.

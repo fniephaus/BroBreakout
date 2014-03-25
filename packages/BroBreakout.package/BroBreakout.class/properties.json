@@ -1,0 +1,16 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Configurations",
+		"ImageDatabase",
+		"SoundDatabase" ],
+	"commentStamp" : "FN 2/7/2013 13:31:23.721",
+	"instvars" : [
+		"views" ],
+	"name" : "BroBreakout",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

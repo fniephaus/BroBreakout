@@ -1,0 +1,3 @@
+constants
+boundaryWidth
+	^ 15

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"boundaryWidth" : "FN 1/25/2013 17:00:02.443" },
+	"instance" : {
+		"health:" : "FN 1/17/2013 17:40:40.536",
+		"imageName" : "FN 2/3/2013 17:34:55.788",
+		"initialize" : "PO 2/7/2013 22:34:51.679",
+		"placeInLevelWorld:at:" : "PO 2/3/2013 21:44:43.785" } }

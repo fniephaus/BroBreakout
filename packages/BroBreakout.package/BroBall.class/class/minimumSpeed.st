@@ -1,0 +1,3 @@
+constants
+minimumSpeed
+	^ 3

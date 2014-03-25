@@ -1,0 +1,18 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:10:57.524",
+	"instvars" : [
+		"health",
+		"hitAllowed",
+		"containsPowerup",
+		"levelWorld",
+		"backgroundMorph" ],
+	"name" : "BroBlock",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

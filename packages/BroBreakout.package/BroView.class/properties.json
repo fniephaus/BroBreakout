@@ -1,0 +1,15 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:30:24.57",
+	"instvars" : [
+		"gameInstance",
+		"music" ],
+	"name" : "BroView",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

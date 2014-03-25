@@ -1,0 +1,3 @@
+constants
+labelHorizontalSpacing
+	^ 60

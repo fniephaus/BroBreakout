@@ -1,0 +1,1 @@
+A BroLevelStatisticsItem is used for displaying a specific game related information.

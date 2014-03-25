@@ -1,0 +1,16 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:26:03.545",
+	"instvars" : [
+		"levelWorld",
+		"directionVector",
+		"backgroundMorph" ],
+	"name" : "BroPowerup",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

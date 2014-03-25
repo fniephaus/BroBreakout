@@ -1,0 +1,3 @@
+constants
+defaultBallSpeed
+	^ 5

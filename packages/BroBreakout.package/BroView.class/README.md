@@ -1,0 +1,1 @@
+A BroView is a abstract subclass of Morph which takes care of general keyboard/mouse handling and provides functionality for playing background music.

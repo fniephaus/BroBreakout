@@ -1,0 +1,15 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:14:10.926",
+	"instvars" : [
+		"imageMorph",
+		"currentSpriteIndex" ],
+	"name" : "BroExplosion",
+	"pools" : [
+		 ],
+	"super" : "TransformMorph",
+	"type" : "normal" }

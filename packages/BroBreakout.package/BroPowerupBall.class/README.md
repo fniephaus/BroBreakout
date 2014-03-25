@@ -1,0 +1,1 @@
+A BroPowerupBall is a subclass of BroPowerup which adds a new instance of BroBall to the levelWorld.

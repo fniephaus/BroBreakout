@@ -1,0 +1,19 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:19:07.35",
+	"instvars" : [
+		"levelWorld",
+		"levelStatistics",
+		"overlay",
+		"currentLevelID",
+		"levelBuilder",
+		"lastKey" ],
+	"name" : "BroLevelView",
+	"pools" : [
+		 ],
+	"super" : "BroView",
+	"type" : "normal" }

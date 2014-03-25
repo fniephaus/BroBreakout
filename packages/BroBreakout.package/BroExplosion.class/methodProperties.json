@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"diameter" : "FN 1/24/2013 09:59:43.31" },
+	"instance" : {
+		"currentSpriteIndex" : "FN 1/24/2013 10:48:25.414",
+		"currentSpriteIndex:" : "FN 1/24/2013 10:48:28.466",
+		"imageMorph" : "FN 1/24/2013 10:48:32.454",
+		"imageMorph:" : "FN 1/24/2013 10:48:35.466",
+		"initialize" : "PO 2/3/2013 20:23:36.922",
+		"step" : "PO 2/3/2013 20:23:42.448",
+		"stepTime" : "FN 1/24/2013 10:49:07.638" } }

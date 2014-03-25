@@ -1,0 +1,3 @@
+constants
+diameter
+	^ 64

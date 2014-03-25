@@ -1,0 +1,1 @@
+A BroWelcomeView is a subclass of BroView which displays a simple welcome screen.

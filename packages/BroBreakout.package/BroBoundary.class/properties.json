@@ -1,0 +1,14 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:11:33.594",
+	"instvars" : [
+		 ],
+	"name" : "BroBoundary",
+	"pools" : [
+		 ],
+	"super" : "BroBlock",
+	"type" : "normal" }

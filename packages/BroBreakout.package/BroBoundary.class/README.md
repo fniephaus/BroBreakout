@@ -1,0 +1,1 @@
+A BroBoundary is an invisible subclass of BroBlock which limits the LevelWorld.

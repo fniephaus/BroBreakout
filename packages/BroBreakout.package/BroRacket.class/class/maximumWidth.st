@@ -1,0 +1,3 @@
+constants
+maximumWidth
+	^ 200

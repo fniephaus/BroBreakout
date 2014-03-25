@@ -1,0 +1,1 @@
+A BroMenuLabel is a SimpleButtonMorph which is used to represent a certain level in a BroMenuView by using its level ID.

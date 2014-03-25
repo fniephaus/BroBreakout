@@ -1,0 +1,14 @@
+{
+	"category" : "BroBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 2/3/2013 22:28:24.778",
+	"instvars" : [
+		 ],
+	"name" : "BroPowerupShrink",
+	"pools" : [
+		 ],
+	"super" : "BroPowerup",
+	"type" : "normal" }
