@@ -11,15 +11,19 @@ Breakout clone written in Smalltalk
 
 
 ## How to start
-```BroBreakout new openInHand.```
+```
+BroBreakout new openInHand.
+```
 
 
 ## Contributors
 
-Fabio Niephaus
+[Fabio Niephaus](https://github.com/fniephaus)
 
 
 ## Copyright & License
+
+Copyright (c) 2013 [Frank Blechschmidt](https://github.com/FraBle), [Fabio Niephaus](https://github.com/fniephaus), [Philipp Otto](https://github.com/philippotto) and [Daniel Werner](https://github.com/daniel-wer) - Released under the [MIT license](https://raw.github.com/fniephaus/BroBreakout/master/LICENSE).
 
 All images and sounds that are been used are licensed under the Creative Commons License or any other license that allows commercial use.
 
