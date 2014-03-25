@@ -18,7 +18,7 @@ BroBreakout new openInHand.
 
 ## Contributors
 
-[Fabio Niephaus](https://github.com/fniephaus)
+[Fabio Niephaus](https://github.com/fniephaus), [Philipp Otto](https://github.com/philippotto) and [Daniel Werner](https://github.com/daniel-wer)
 
 
 ## Copyright & License
