@@ -11,7 +11,7 @@ Breakout clone written in Smalltalk
 
 
 ## How to start
-```
+```Smalltalk
 BroBreakout new openInHand.
 ```
 
